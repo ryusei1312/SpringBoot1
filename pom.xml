@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
   
  <groupId>jp.te4a.spring.boot.myapp2</groupId>
-  <artifactId>MyBootApp2</artifactId>
+  <artifactId>SpringBoot1</artifactId>
   <version>1.0-SNAPSHOT</version>
   
   <parent>
@@ -43,9 +43,9 @@
      <groupId>org.springframework.boot</groupId>
      <artifactId>spring-boot-maven-plugin</artifactId>
      <configuration>
-      <mainClass>jp.te4a.spring.boot.myapp1.App</mainClass>
+      <mainClass>jp.te4a.spring.boot.myapp2.App</mainClass>
      </configuration>
     </plugin>
    </plugins>
   </build>
- </project>
+</project>
